@@ -3,9 +3,9 @@ from distutils.core import setup
 setup(
     name = "microsearch",
     version = "1.0.0",
-    description = "A small search library.",
-    author = 'Daniel Lindsley',
-    author_email = 'daniel@toastdriven.com',
+    description = "A small search lib.",
+    author = 'dheeraj naik',
+    author_email = 'malothdheeraj123@gmail.com',
     long_description=open('README.rst', 'r').read(),
     py_modules = [
         'microsearch'
